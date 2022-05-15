@@ -1,0 +1,766 @@
+Name,Age,Team_from,League_from,Team_to,League_to,Season,marketvalue,fee
+Julian Draxler,21,FC Schalke 04,1.Bundesliga,VfL Wolfsburg,1.Bundesliga,2015-2016,22000000,43000000
+Arturo Vidal,28,Juventus,Serie A,Bayern Munich ,1.Bundesliga,2015-2016,42000000,37500000
+Douglas Costa,24,Shakhtar D.,Premier Liga,Bayern Munich ,1.Bundesliga,2015-2016,23000000,30000000
+Charles Aránguiz,26,Internacional,Série A,Bay. Leverkusen,1.Bundesliga,2015-2016,9500000,13000000
+Max Kruse,27,Bor. M'gladbach,1.Bundesliga,VfL Wolfsburg,1.Bundesliga,2015-2016,12000000,12000000
+Chicharito,27,Man Utd,Premier League,Bay. Leverkusen,1.Bundesliga,2015-2016,10000000,12000000
+Gonzalo Castro,28,Bay. Leverkusen,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2015-2016,14000000,11000000
+Kevin Kampl,24,Bor. Dortmund,1.Bundesliga,Bay. Leverkusen,1.Bundesliga,2015-2016,9000000,11000000
+Johannes Geis,21,1.FSV Mainz 05,1.Bundesliga,FC Schalke 04,1.Bundesliga,2015-2016,11000000,10500000
+Josip Drmic,22,Bay. Leverkusen,1.Bundesliga,Bor. M'gladbach,1.Bundesliga,2015-2016,8000000,10000000
+Matija Nastasic,22,Man City,Premier League,FC Schalke 04,1.Bundesliga,2015-2016,14000000,9500000
+Joshua Kimmich,20,VfB Stuttgart,1.Bundesliga,Bayern Munich ,1.Bundesliga,2015-2016,5000000,8500000
+Thorgan Hazard,22,Chelsea,Premier League,Bor. M'gladbach,1.Bundesliga,2015-2016,10000000,8000000
+Admir Mehmedi,24,SC Freiburg,2.Bundesliga,Bay. Leverkusen,1.Bundesliga,2015-2016,6000000,8000000
+Jonas Hofmann,23,Bor. Dortmund,1.Bundesliga,Bor. M'gladbach,1.Bundesliga,2015-2016,4000000,8000000
+Jonathan Tah,19,Hamburger SV,1.Bundesliga,Bay. Leverkusen,1.Bundesliga,2015-2016,6000000,7500000
+Kyriakos Papadopoulos,23,FC Schalke 04,1.Bundesliga,Bay. Leverkusen,1.Bundesliga,2015-2016,7500000,6500000
+Lewis Holtby,24,Spurs,Premier League,Hamburger SV,1.Bundesliga,2015-2016,4000000,6500000
+Franco Di Santo,26,Werder Bremen,1.Bundesliga,FC Schalke 04,1.Bundesliga,2015-2016,8500000,6000000
+Eduardo Vargas,25,SSC Napoli,Serie A,TSG Hoffenheim,1.Bundesliga,2015-2016,6000000,6000000
+Jackson Martínez,28,FC Porto,Liga NOS,Atlético Madrid,LaLiga,2015-2016,35000000,37100000
+Arda Turan,28,Atlético Madrid,LaLiga,FC Barcelona,LaLiga,2015-2016,35000000,34000000
+Danilo,23,FC Porto,Liga NOS,Real Madrid,LaLiga,2015-2016,25000000,31500000
+Mateo Kovacic,21,Inter,Serie A,Real Madrid,LaLiga,2015-2016,22000000,31000000
+Rodrigo,24,Benfica,Liga NOS,Valencia CF,LaLiga,2015-2016,18000000,30000000
+Álvaro Negredo,29,Man City,Premier League,Valencia CF,LaLiga,2015-2016,18000000,28000000
+Stefan Savic,24,Fiorentina,Serie A,Atlético Madrid,LaLiga,2015-2016,15000000,25000000
+Yannick Carrasco,21,Monaco,Ligue 1,Atlético Madrid,LaLiga,2015-2016,9000000,24760000
+Aymen Abdennour,26,Monaco,Ligue 1,Valencia CF,LaLiga,2015-2016,10000000,22000000
+Luciano Vietto,21,Villarreal CF,LaLiga,Atlético Madrid,LaLiga,2015-2016,20000000,20000000
+André Gomes,21,Benfica,Liga NOS,Valencia CF,LaLiga,2015-2016,20000000,20000000
+Aleix Vidal,25,Sevilla FC,LaLiga,FC Barcelona,LaLiga,2015-2016,10000000,17000000
+Filipe Luís,29,Chelsea,Premier League,Atlético Madrid,LaLiga,2015-2016,15000000,16000000
+Roberto Soldado,30,Spurs,Premier League,Villarreal CF,LaLiga,2015-2016,10000000,16000000
+Asier Illarramendi,25,Real Madrid,LaLiga,Real Sociedad,LaLiga,2015-2016,15000000,15000000
+João Cancelo,21,Benfica,Liga NOS,Valencia CF,LaLiga,2015-2016,5000000,15000000
+Ciro Immobile,25,Bor. Dortmund,1.Bundesliga,Sevilla FC,LaLiga,2015-2016,10000000,11000000
+Santi Mina,19,Celta de Vigo,LaLiga,Valencia CF,LaLiga,2015-2016,4000000,10000000
+Aderllan Santos,26,Braga,Liga NOS,Valencia CF,LaLiga,2015-2016,7500000,9500000
+Raúl García,29,Atlético Madrid,LaLiga,Athletic Bilbao,LaLiga,2015-2016,15000000,8000000
+Samu García,24,Málaga CF,LaLiga,Villarreal CF,LaLiga,2015-2016,7500000,8000000
+Samu Castillejo,20,Málaga CF,LaLiga,Villarreal CF,LaLiga,2015-2016,7500000,8000000
+Steven Nzonzi,26,Stoke City,Premier League,Sevilla FC,LaLiga,2015-2016,7500000,8000000
+Matías Kranevitter,22,River Plate,Primera División,Atlético Madrid,LaLiga,2015-2016,7000000,8000000
+Cédric Bakambu,24,Bursaspor,Süper Lig,Villarreal CF,LaLiga,2015-2016,5500000,7500000
+Jonathas,26,Elche CF,LaLiga2,Real Sociedad,LaLiga,2015-2016,6000000,7200000
+Mathew Ryan,23,Club Brugge,Jupiler Pro League,Valencia CF,LaLiga,2015-2016,7000000,7000000
+Sidnei,25,Benfica,Liga NOS,Dep. La Coruña,LaLiga,2015-2016,3000000,6500000
+Kiko Casilla,28,Espanyol,LaLiga,Real Madrid,LaLiga,2015-2016,7500000,6000000
+Bernard Mensah,20,Vit. Guimarães,Liga NOS,Atlético Madrid,LaLiga,2015-2016,4000000,6000000
+Iago Aspas,27,Liverpool,Premier League,Sevilla FC,LaLiga,2015-2016,4000000,6000000
+Gaël Kakuta,24,Chelsea,Premier League,Sevilla FC,LaLiga,2015-2016,3500000,6000000
+Ángel Di María,27,Man Utd,Premier League,Paris SG,Ligue 1,2015-2016,50000000,63000000
+Layvin Kurzawa,22,Monaco,Ligue 1,Paris SG,Ligue 1,2015-2016,10000000,25000000
+Ivan Cavaleiro,21,Benfica,Liga NOS,Monaco,Ligue 1,2015-2016,3500000,15000000
+Adama Traoré,20,LOSC Lille,Ligue 1,Monaco,Ligue 1,2015-2016,1250000,14000000
+Sergi Darder,21,Málaga CF,LaLiga,Olympique Lyon,Ligue 1,2015-2016,7500000,13100000
+Rony Lopes,19,Man City,Premier League,Monaco,Ligue 1,2015-2016,4500000,12000000
+Jemerson,23,Atlético-MG,Série A,Monaco,Ligue 1,2015-2016,5000000,11000000
+Serge Aurier,22,Toulouse,Ligue 1,Paris SG,Ligue 1,2015-2016,10000000,10000000
+Kevin Trapp,25,E. Frankfurt,1.Bundesliga,Paris SG,Ligue 1,2015-2016,8000000,9500000
+Mapou Yanga-Mbiwa,26,AS Roma,Serie A,Olympique Lyon,Ligue 1,2015-2016,6500000,9400000
+Gabriel Boschilia,19,São Paulo,Série A,Monaco,Ligue 1,2015-2016,3000000,9060000
+Guido Carrillo,24,Estudiantes,Primera División,Monaco,Ligue 1,2015-2016,3200000,9000000
+Benjamin Stambouli,24,Spurs,Premier League,Paris SG,Ligue 1,2015-2016,5000000,8600000
+Lucas Ocampos,20,Monaco,Ligue 1,Marseille,Ligue 1,2015-2016,6500000,7500000
+Robert Beric,24,Rapid Vienna,Bundesliga,Saint-Étienne,Ligue 1,2015-2016,3000000,7500000
+Mathieu Valbuena,30,Dinamo Moscow,Premier Liga,Olympique Lyon,Ligue 1,2015-2016,11500000,6000000
+Fabinho,21,Rio Ave FC,Liga NOS,Monaco,Ligue 1,2015-2016,8000000,6000000
+Claudio Beauvue,27,Guingamp,Ligue 1,Olympique Lyon,Ligue 1,2015-2016,5000000,6000000
+Kevin De Bruyne,24,VfL Wolfsburg,1.Bundesliga,Man City,Premier League,2015-2016,45000000,76000000
+Raheem Sterling,20,Liverpool,Premier League,Man City,Premier League,2015-2016,40000000,63700000
+Anthony Martial,19,Monaco,Ligue 1,Man Utd,Premier League,2015-2016,8000000,60000000
+Christian Benteke,24,Aston Villa,Premier League,Liverpool,Premier League,2015-2016,20000000,46500000
+Nicolás Otamendi,27,Valencia CF,LaLiga,Man City,Premier League,2015-2016,25000000,44600000
+Roberto Firmino,23,TSG Hoffenheim,1.Bundesliga,Liverpool,Premier League,2015-2016,25000000,41000000
+Morgan Schneiderlin,25,Southampton,Premier League,Man Utd,Premier League,2015-2016,28000000,35000000
+Memphis Depay,21,PSV Eindhoven,Eredivisie,Man Utd,Premier League,2015-2016,28000000,34000000
+Heung-min Son,23,Bay. Leverkusen,1.Bundesliga,Spurs,Premier League,2015-2016,16000000,30000000
+Pedro,28,FC Barcelona,LaLiga,Chelsea,Premier League,2015-2016,20000000,27000000
+Giannelli Imbula,23,FC Porto,Liga NOS,Stoke City,Premier League,2015-2016,16000000,24250000
+Georginio Wijnaldum,24,PSV Eindhoven,Eredivisie,Newcastle,Premier League,2015-2016,15000000,20000000
+Abdul Rahman Baba,21,FC Augsburg,1.Bundesliga,Chelsea,Premier League,2015-2016,10000000,20000000
+Aleksandar Mitrovic,20,RSC Anderlecht,Jupiler Pro League,Newcastle,Premier League,2015-2016,11000000,18500000
+Florian Thauvin,22,Marseille,Ligue 1,Newcastle,Premier League,2015-2016,12000000,18350000
+Matteo Darmian,25,Torino,Serie A,Man Utd,Premier League,2015-2016,12000000,18000000
+Oumar Niasse,25,Loko Moscow,Premier Liga,Everton,Premier League,2015-2016,10000000,17900000
+Nathaniel Clyne,24,Southampton,Premier League,Liverpool,Premier League,2015-2016,17000000,17700000
+Xherdan Shaqiri,23,Inter,Serie A,Stoke City,Premier League,2015-2016,17000000,17000000
+José Salomón Rondón,25,Zenit S-Pb,Premier Liga,West Brom,Premier League,2015-2016,15000000,17000000
+Toby Alderweireld,26,Atlético Madrid,LaLiga,Spurs,Premier League,2015-2016,15000000,16000000
+Jonjo Shelvey,23,Swansea,Premier League,Newcastle,Premier League,2015-2016,12000000,16000000
+Andros Townsend,24,Spurs,Premier League,Newcastle,Premier League,2015-2016,8000000,15700000
+Virgil van Dijk,24,Celtic,Premiership,Southampton,Premier League,2015-2016,5000000,15700000
+Dimitri Payet,28,Marseille,Ligue 1,West Ham,Premier League,2015-2016,13000000,15000000
+Jordy Clasie,24,Feyenoord,Eredivisie,Southampton,Premier League,2015-2016,10000000,15000000
+Clinton N'Jie,22,Olympique Lyon,Ligue 1,Spurs,Premier League,2015-2016,5000000,14100000
+Petr Cech,33,Chelsea,Premier League,Arsenal,Premier League,2015-2016,12000000,14000000
+Yohan Cabaye,29,Paris SG,Ligue 1,Crystal Palace,Premier League,2015-2016,16000000,13900000
+Benik Afobe,22,Wolves,Championship,Bournemouth,Premier League,2015-2016,7000000,13300000
+Ramiro Funes Mori,24,River Plate,Primera División,Everton,Premier League,2015-2016,6000000,12900000
+Mohamed Elneny,23,FC Basel,Super League,Arsenal,Premier League,2015-2016,4000000,12500000
+Chancel Mbemba,20,RSC Anderlecht,Jupiler Pro League,Newcastle,Premier League,2015-2016,8000000,12000000
+Jordan Ayew,23,FC Lorient,Ligue 1,Aston Villa,Premier League,2015-2016,6000000,12000000
+Wahbi Khazri,24,G. Bordeaux,Ligue 1,Sunderland,Premier League,2015-2016,7500000,11800000
+Fabian Delph,25,Aston Villa,Premier League,Man City,Premier League,2015-2016,10000000,11500000
+Jeremain Lens,27,Dynamo Kyiv,Premier Liga,Sunderland,Premier League,2015-2016,12000000,11400000
+Tyrone Mings,22,Ipswich,Championship,Bournemouth,Premier League,2015-2016,6000000,11300000
+James Chester,26,Hull City,Championship,West Brom,Premier League,2015-2016,2000000,11300000
+Asmir Begovic,28,Stoke City,Premier League,Chelsea,Premier League,2015-2016,12000000,11000000
+Angelo Ogbonna,27,Juventus,Serie A,West Ham,Premier League,2015-2016,9000000,11000000
+Shinji Okazaki,29,1.FSV Mainz 05,1.Bundesliga,Leicester,Premier League,2015-2016,8000000,11000000
+Steven Naismith,29,Everton,Premier League,Norwich,Premier League,2015-2016,5000000,11000000
+Jordan Amavi,21,OGC Nice,Ligue 1,Aston Villa,Premier League,2015-2016,4000000,11000000
+Timm Klose,27,VfL Wolfsburg,1.Bundesliga,Norwich,Premier League,2015-2016,3000000,11000000
+Fabio Borini,24,Liverpool,Premier League,Sunderland,Premier League,2015-2016,7000000,10700000
+Abdoulaye Doucouré,23,Stade Rennais,Ligue 1,Watford,Premier League,2015-2016,6000000,10600000
+Adalberto Peñaranda,18,Udinese Calcio,Serie A,Watford,Premier League,2015-2016,500000,10600000
+Ricardo Álvarez,27,Inter,Serie A,Sunderland,Premier League,2015-2016,10000000,10500000
+Jordan Veretout,22,FC Nantes,Ligue 1,Aston Villa,Premier League,2015-2016,8000000,10000000
+Max Gradel,27,Saint-Étienne,Ligue 1,Bournemouth,Premier League,2015-2016,6500000,10000000
+Connor Wickham,22,Sunderland,Premier League,Crystal Palace,Premier League,2015-2016,5000000,10000000
+Adama Traoré,19,FC Barcelona B,2ª B - Grupo III,Aston Villa,Premier League,2015-2016,5000000,10000000
+Robbie Brady,23,Hull City,Championship,Norwich,Premier League,2015-2016,2000000,9900000
+Alberto Paloschi,26,Chievo Verona,Serie A,Swansea,Premier League,2015-2016,6000000,9500000
+Michail Antonio,25,Nottm Forest,Championship,West Ham,Premier League,2015-2016,2500000,9500000
+Lewis Grabban,28,Norwich,Premier League,Bournemouth,Premier League,2015-2016,3000000,9350000
+Bastian Schweinsteiger,30,Bayern Munich ,1.Bundesliga,Man Utd,Premier League,2015-2016,22000000,9000000
+Idrissa Gueye,25,LOSC Lille,Ligue 1,Aston Villa,Premier League,2015-2016,7500000,9000000
+N'Golo Kanté,24,SM Caen,Ligue 1,Leicester,Premier League,2015-2016,4500000,9000000
+Étienne Capoue,27,Spurs,Premier League,Watford,Premier League,2015-2016,7500000,8900000
+José Manuel Jurado,29,Spartak Moscow,Premier Liga,Watford,Premier League,2015-2016,7000000,8600000
+Rudy Gestede,26,Blackburn,Championship,Aston Villa,Premier League,2015-2016,3500000,8500000
+Nordin Amrabat,28,Málaga CF,LaLiga,Watford,Premier League,2015-2016,6000000,8400000
+Matej Vydra,23,Udinese Calcio,Serie A,Watford,Premier League,2015-2016,5500000,8400000
+Danny Ings,22,Burnley,Championship,Liverpool,Premier League,2015-2016,12000000,8300000
+Jonny Evans,27,Man Utd,Premier League,West Brom,Premier League,2015-2016,6000000,8300000
+Obbi Oulare,19,Club Brugge,Jupiler Pro League,Watford,Premier League,2015-2016,5000000,8230000
+Joselu,25,Hannover 96,1.Bundesliga,Stoke City,Premier League,2015-2016,6000000,8000000
+Kenedy,19,Fluminense,Série A,Chelsea,Premier League,2015-2016,6000000,8000000
+Patrick Roberts,18,Fulham,Championship,Man City,Premier League,2015-2016,2500000,7200000
+Cédric Soares,23,Sporting CP,Liga NOS,Southampton,Premier League,2015-2016,9500000,7000000
+Gökhan Inler,31,SSC Napoli,Serie A,Leicester,Premier League,2015-2016,7500000,7000000
+Juanmi,22,Málaga CF,LaLiga,Southampton,Premier League,2015-2016,7000000,7000000
+Marko Grujic,19,Red Star,SuperLiga,Liverpool,Premier League,2015-2016,3000000,7000000
+Oriol Romeu,23,Chelsea,Premier League,Southampton,Premier League,2015-2016,2500000,7000000
+Yohan Benalouane,28,Atalanta,Serie A,Leicester,Premier League,2015-2016,1300000,7000000
+Éder,27,Braga,Liga NOS,Swansea,Premier League,2015-2016,6000000,6700000
+Daniel Amartey,21,FC Copenhagen,Superligaen,Leicester,Premier League,2015-2016,3000000,6600000
+Steven Berghuis,23,AZ Alkmaar,Eredivisie,Watford,Premier League,2015-2016,3500000,6500000
+Lamine Koné,27,FC Lorient,Ligue 1,Sunderland,Premier League,2015-2016,2500000,6500000
+Aaron Lennon,28,Spurs,Premier League,Everton,Premier League,2015-2016,8500000,6000000
+Pedro Obiang,23,Sampdoria,Serie A,West Ham,Premier League,2015-2016,8000000,6000000
+Kevin Wimmer,22,1. FC Köln,1.Bundesliga,Spurs,Premier League,2015-2016,7500000,6000000
+Gerard Deulofeu,21,FC Barcelona,LaLiga,Everton,Premier League,2015-2016,6000000,6000000
+Henri Saivet,25,G. Bordeaux,Ligue 1,Newcastle,Premier League,2015-2016,2500000,6000000
+Paulo Dybala,21,US Palermo,Serie A,Juventus,Serie A,2015-2016,28000000,40000000
+Geoffrey Kondogbia,22,Monaco,Ligue 1,Inter,Serie A,2015-2016,16000000,36000000
+Carlos Bacca,28,Sevilla FC,LaLiga,AC Milan,Serie A,2015-2016,25000000,30000000
+Alex Sandro,24,FC Porto,Liga NOS,Juventus,Serie A,2015-2016,20000000,26000000
+Alessio Romagnoli,20,AS Roma,Serie A,AC Milan,Serie A,2015-2016,8500000,25000000
+Mario Mandzukic,29,Atlético Madrid,LaLiga,Juventus,Serie A,2015-2016,20000000,21000000
+Andrea Bertolacci,24,AS Roma,Serie A,AC Milan,Serie A,2015-2016,15000000,20000000
+Ivan Perisic,26,VfL Wolfsburg,1.Bundesliga,Inter,Serie A,2015-2016,13000000,19000000
+Simone Zaza,24,Sassuolo,Serie A,Juventus,Serie A,2015-2016,11000000,18000000
+Sergej Milinkovic-Savic,20,KRC Genk,Jupiler Pro League,Lazio,Serie A,2015-2016,4000000,18000000
+Roberto Pereyra,24,Udinese Calcio,Serie A,Juventus,Serie A,2015-2016,17000000,15000000
+Xherdan Shaqiri,23,Bayern Munich ,1.Bundesliga,Inter,Serie A,2015-2016,17000000,15000000
+Mario Suárez,28,Atlético Madrid,LaLiga,Fiorentina,Serie A,2015-2016,10000000,15000000
+Hernanes,30,Inter,Serie A,Juventus,Serie A,2015-2016,14000000,13000000
+Luis Muriel,24,Udinese Calcio,Serie A,Sampdoria,Serie A,2015-2016,10000000,12000000
+Allan,24,Udinese Calcio,Serie A,SSC Napoli,Serie A,2015-2016,11500000,11500000
+Dusan Basta,30,Udinese Calcio,Serie A,Lazio,Serie A,2015-2016,5500000,10500000
+Domenico Berardi,20,Juventus,Serie A,Sassuolo,Serie A,2015-2016,17500000,10000000
+Andrea Bertolacci,24,Genoa,Serie A,AS Roma,Serie A,2015-2016,15000000,8500000
+Mattia Destro,24,AS Roma,Serie A,Bologna,Serie A,2015-2016,13000000,8500000
+Andrea Belotti,21,US Palermo,Serie A,Torino,Serie A,2015-2016,5000000,8400000
+Fernando,23,Shakhtar D.,Premier Liga,Sampdoria,Serie A,2015-2016,9000000,8000000
+Luiz Adriano,28,Shakhtar D.,Premier Liga,AC Milan,Serie A,2015-2016,8500000,8000000
+Jeison Murillo,23,Granada CF,LaLiga,Inter,Serie A,2015-2016,8000000,8000000
+Alberto Grassi,20,Atalanta,Serie A,SSC Napoli,Serie A,2015-2016,2000000,8000000
+Rolando Mandragora,18,Genoa,Serie A,Juventus,Serie A,2015-2016,2000000,8000000
+Iago Falque,26,Genoa,Serie A,AS Roma,Serie A,2015-2016,8000000,7000000
+Vlad Chiriches,25,Spurs,Premier League,SSC Napoli,Serie A,2015-2016,6000000,7000000
+Grégoire Defrel,24,RC Cesena,Serie B,Sassuolo,Serie A,2015-2016,6000000,7000000
+Daniele Baselli,23,Atalanta,Serie A,Torino,Serie A,2015-2016,3800000,6000000
+Leandro Paredes,21,Boca Juniors,Primera División,AS Roma,Serie A,2015-2016,3500000,6000000
+Mats Hummels,27,Bor. Dortmund,1.Bundesliga,Bayern Munich ,1.Bundesliga,2016-2017,32000000,35000000
+Renato Sanches,18,Benfica,Liga NOS,Bayern Munich ,1.Bundesliga,2016-2017,10000000,35000000
+André Schürrle,25,VfL Wolfsburg,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2016-2017,18000000,30000000
+Naby Keïta,21,RB Salzburg,Bundesliga,RB Leipzig,1.Bundesliga,2016-2017,11000000,24000000
+Breel Embolo,19,FC Basel,Super League,FC Schalke 04,1.Bundesliga,2016-2017,20000000,22500000
+Mario Götze,24,Bayern Munich ,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2016-2017,35000000,22000000
+Kevin Volland,23,TSG Hoffenheim,1.Bundesliga,Bay. Leverkusen,1.Bundesliga,2016-2017,17000000,20000000
+Aleksandar Dragovic,25,Dynamo Kyiv,Premier Liga,Bay. Leverkusen,1.Bundesliga,2016-2017,15000000,18000000
+Oliver Burke,19,Nottm Forest,Championship,RB Leipzig,1.Bundesliga,2016-2017,250000,15200000
+Christoph Kramer,25,Bay. Leverkusen,1.Bundesliga,Bor. M'gladbach,1.Bundesliga,2016-2017,12000000,15000000
+Ousmane Dembélé,19,Stade Rennais,Ligue 1,Bor. Dortmund,1.Bundesliga,2016-2017,12000000,15000000
+Filip Kostic,23,VfB Stuttgart,2.Bundesliga,Hamburger SV,1.Bundesliga,2016-2017,10000000,14000000
+Timo Werner,20,VfB Stuttgart,2.Bundesliga,RB Leipzig,1.Bundesliga,2016-2017,8000000,14000000
+Leon Bailey,19,KRC Genk,Jupiler Pro League,Bay. Leverkusen,1.Bundesliga,2016-2017,12500000,13500000
+Yannick Gerhardt,22,1. FC Köln,1.Bundesliga,VfL Wolfsburg,1.Bundesliga,2016-2017,4500000,13000000
+Yunus Malli,24,1.FSV Mainz 05,1.Bundesliga,VfL Wolfsburg,1.Bundesliga,2016-2017,10000000,12500000
+Jannik Vestergaard,23,Werder Bremen,1.Bundesliga,Bor. M'gladbach,1.Bundesliga,2016-2017,7000000,12500000
+Riechedly Bazoer,20,AFC Ajax,Eredivisie,VfL Wolfsburg,1.Bundesliga,2016-2017,15000000,12000000
+Raphaël Guerreiro,22,FC Lorient,Rel. Ligue 1,Bor. Dortmund,1.Bundesliga,2016-2017,9000000,12000000
+Sebastian Rode,25,Bayern Munich ,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2016-2017,8000000,12000000
+Jeffrey Bruma,24,PSV Eindhoven,Eredivisie,VfL Wolfsburg,1.Bundesliga,2016-2017,7750000,11500000
+Andrej Kramaric,25,Leicester,Premier League,TSG Hoffenheim,1.Bundesliga,2016-2017,5000000,11000000
+Dayot Upamecano,18,RB Salzburg,Bundesliga,RB Leipzig,1.Bundesliga,2016-2017,5000000,10000000
+Josip Brekalo,18,Dinamo Zagreb,1.HNL,VfL Wolfsburg,1.Bundesliga,2016-2017,1000000,10000000
+Emre Mor,18,Nordsjaelland,Superligaen,Bor. Dortmund,1.Bundesliga,2016-2017,1000000,9750000
+Walace,21,Grêmio,Série A,Hamburger SV,1.Bundesliga,2016-2017,9000000,9200000
+Alexander Isak,17,AIK Solna,Allsvenskan,Bor. Dortmund,1.Bundesliga,2016-2017,1750000,8600000
+Marc Bartra,25,FC Barcelona,LaLiga,Bor. Dortmund,1.Bundesliga,2016-2017,12000000,8000000
+Benjamin Stambouli,26,Paris SG,Ligue 1,FC Schalke 04,1.Bundesliga,2016-2017,7000000,8000000
+Max Kruse,28,VfL Wolfsburg,1.Bundesliga,Werder Bremen,1.Bundesliga,2016-2017,8000000,7500000
+Timothée Kolodziejczak,25,Sevilla FC,LaLiga,Bor. M'gladbach,1.Bundesliga,2016-2017,7000000,7500000
+Martin Hinteregger,23,RB Salzburg,Bundesliga,FC Augsburg,1.Bundesliga,2016-2017,6000000,7000000
+Douglas Santos,22,Atlético-MG,Série A,Hamburger SV,1.Bundesliga,2016-2017,6000000,6500000
+Jhon Córdoba,23,Granada CF,LaLiga,1.FSV Mainz 05,1.Bundesliga,2016-2017,3500000,6500000
+André Gomes,22,Valencia CF,LaLiga,FC Barcelona,LaLiga,2016-2017,30000000,37000000
+Álvaro Morata,23,Juventus,Serie A,Real Madrid,LaLiga,2016-2017,30000000,30000000
+Paco Alcácer,23,Valencia CF,LaLiga,FC Barcelona,LaLiga,2016-2017,25000000,30000000
+Kévin Gameiro,29,Sevilla FC,LaLiga,Atlético Madrid,LaLiga,2016-2017,20000000,30000000
+Nico Gaitán,28,Benfica,Liga NOS,Atlético Madrid,LaLiga,2016-2017,30000000,25000000
+Samuel Umtiti,22,Olympique Lyon,Ligue 1,FC Barcelona,LaLiga,2016-2017,15000000,25000000
+Ezequiel Garay,29,Zenit S-Pb,Premier Liga,Valencia CF,LaLiga,2016-2017,20000000,24000000
+Joaquín Correa,21,Sampdoria,Serie A,Sevilla FC,LaLiga,2016-2017,6500000,18200000
+Franco Vázquez,27,US Palermo,Serie A,Sevilla FC,LaLiga,2016-2017,15000000,16800000
+Lucas Digne,22,Paris SG,Ligue 1,FC Barcelona,LaLiga,2016-2017,12000000,16500000
+Sime Vrsaljko,24,Sassuolo,Serie A,Atlético Madrid,LaLiga,2016-2017,13000000,16000000
+Roberto Soriano,25,Sampdoria,Serie A,Villarreal CF,LaLiga,2016-2017,14000000,13750000
+Nicola Sansone,24,Sassuolo,Serie A,Villarreal CF,LaLiga,2016-2017,12000000,13000000
+Jasper Cillessen,27,AFC Ajax,Eredivisie,FC Barcelona,LaLiga,2016-2017,12000000,13000000
+Ganso,26,São Paulo,Série A,Sevilla FC,LaLiga,2016-2017,9000000,9500000
+Wissam Ben Yedder,25,Toulouse,Ligue 1,Sevilla FC,LaLiga,2016-2017,9000000,9500000
+Nani,29,Fenerbahce,Süper Lig,Valencia CF,LaLiga,2016-2017,14500000,8500000
+Alfred N'Diaye,26,Real Betis,LaLiga,Villarreal CF,LaLiga,2016-2017,3500000,8000000
+Antonio Sanabria,20,AS Roma,Serie A,Real Betis,LaLiga,2016-2017,7500000,7500000
+Cristian Espinoza,21,Huracán,Primera División,Villarreal CF,LaLiga,2016-2017,5000000,7200000
+Diogo Jota,19,Paços Ferreira,Liga NOS,Atlético Madrid,LaLiga,2016-2017,3000000,7200000
+Denis Cheryshev,25,Real Madrid,LaLiga,Villarreal CF,LaLiga,2016-2017,10000000,7000000
+Gerónimo Rulli,24,Man City,Premier League,Real Sociedad,LaLiga,2016-2017,8000000,7000000
+Leo Baptistão,23,Atlético Madrid,LaLiga,Espanyol,LaLiga,2016-2017,4000000,7000000
+Hiroshi Kiyotake,26,Hannover 96,2.Bundesliga,Sevilla FC,LaLiga,2016-2017,4500000,6500000
+Julian Draxler,23,VfL Wolfsburg,1.Bundesliga,Paris SG,Ligue 1,2016-2017,28000000,40000000
+Gonçalo Guedes,20,Benfica,Liga NOS,Paris SG,Ligue 1,2016-2017,9000000,30000000
+Dimitri Payet,29,West Ham,Premier League,Marseille,Ligue 1,2016-2017,30000000,29300000
+Grzegorz Krychowiak,26,Sevilla FC,LaLiga,Paris SG,Ligue 1,2016-2017,30000000,27500000
+Jesé,23,Real Madrid,LaLiga,Paris SG,Ligue 1,2016-2017,14000000,25000000
+Memphis Depay,22,Man Utd,Premier League,Olympique Lyon,Ligue 1,2016-2017,25000000,16000000
+Djibril Sidibé,23,LOSC Lille,Ligue 1,Monaco,Ligue 1,2016-2017,4000000,15000000
+Benjamin Mendy,21,Marseille,Ligue 1,Monaco,Ligue 1,2016-2017,6500000,13000000
+Kamil Glik,28,Torino,Serie A,Monaco,Ligue 1,2016-2017,10000000,11000000
+Giovani Lo Celso,20,CA Rosario,Primera División,Paris SG,Ligue 1,2016-2017,7500000,10000000
+Morgan Sanson,22,Montpellier,Ligue 1,Marseille,Ligue 1,2016-2017,10000000,9000000
+Emanuel Mammana,20,River Plate,Primera División,Olympique Lyon,Ligue 1,2016-2017,7000000,8500000
+Jorge,20,Flamengo,Série A,Monaco,Ligue 1,2016-2017,2500000,8500000
+Rémy Cabella,26,Newcastle,Championship,Marseille,Ligue 1,2016-2017,8000000,8000000
+Anwar El Ghazi,21,AFC Ajax,Eredivisie,LOSC Lille,Ligue 1,2016-2017,6500000,7000000
+Paul Pogba,23,Juventus,Serie A,Man Utd,Premier League,2016-2017,70000000,105000000
+John Stones,22,Everton,Premier League,Man City,Premier League,2016-2017,28000000,55600000
+Leroy Sané,20,FC Schalke 04,1.Bundesliga,Man City,Premier League,2016-2017,30000000,50500000
+Granit Xhaka,23,Bor. M'gladbach,1.Bundesliga,Arsenal,Premier League,2016-2017,25000000,45000000
+Henrikh Mkhitaryan,27,Bor. Dortmund,1.Bundesliga,Man Utd,Premier League,2016-2017,30000000,42000000
+Sadio Mané,24,Southampton,Premier League,Liverpool,Premier League,2016-2017,20000000,41200000
+Shkodran Mustafi,24,Valencia CF,LaLiga,Arsenal,Premier League,2016-2017,20000000,41000000
+Michy Batshuayi,22,Marseille,Ligue 1,Chelsea,Premier League,2016-2017,15000000,39000000
+Eric Bailly,22,Villarreal CF,LaLiga,Man Utd,Premier League,2016-2017,8000000,38000000
+N'Golo Kanté,25,Leicester,Premier League,Chelsea,Premier League,2016-2017,20000000,35800000
+David Luiz,29,Paris SG,Ligue 1,Chelsea,Premier League,2016-2017,28000000,35000000
+Moussa Sissoko,27,Newcastle,Championship,Spurs,Premier League,2016-2017,13000000,35000000
+Gabriel Jesus,19,Palmeiras,Série A,Man City,Premier League,2016-2017,16000000,32000000
+Christian Benteke,25,Liverpool,Premier League,Crystal Palace,Premier League,2016-2017,27000000,31200000
+Islam Slimani,28,Sporting CP,Liga NOS,Leicester,Premier League,2016-2017,22000000,30500000
+Yannick Bolasie,27,Crystal Palace,Premier League,Everton,Premier League,2016-2017,14000000,28900000
+Georginio Wijnaldum,25,Newcastle,Championship,Liverpool,Premier League,2016-2017,20000000,27500000
+Ilkay Gündogan,25,Bor. Dortmund,1.Bundesliga,Man City,Premier League,2016-2017,30000000,27000000
+André Ayew,26,Swansea,Premier League,West Ham,Premier League,2016-2017,18000000,24100000
+Marcos Alonso,25,Fiorentina,Serie A,Chelsea,Premier League,2016-2017,9000000,23000000
+Morgan Schneiderlin,27,Man Utd,Premier League,Everton,Premier League,2016-2017,28000000,22900000
+Vincent Janssen,22,AZ Alkmaar,Eredivisie,Spurs,Premier League,2016-2017,6000000,22100000
+Didier Ndong,22,FC Lorient,Rel. Ligue 1,Sunderland,Premier League,2016-2017,5000000,20000000
+Ahmed Musa,23,CSKA Moscow,Premier Liga,Leicester,Premier League,2016-2017,18000000,19500000
+Sofiane Boufal,22,LOSC Lille,Ligue 1,Southampton,Premier League,2016-2017,13000000,18700000
+Claudio Bravo,33,FC Barcelona,LaLiga,Man City,Premier League,2016-2017,15000000,18000000
+Nolito,29,Celta de Vigo,LaLiga,Man City,Premier League,2016-2017,15000000,18000000
+Jordon Ibe,20,Liverpool,Premier League,Bournemouth,Premier League,2016-2017,7000000,18000000
+Borja Bastón,23,Atlético Madrid,LaLiga,Swansea,Premier League,2016-2017,5000000,18000000
+Wilfred Ndidi,20,KRC Genk,Jupiler Pro League,Leicester,Premier League,2016-2017,8000000,17600000
+Manolo Gabbiadini,25,SSC Napoli,Serie A,Southampton,Premier League,2016-2017,15000000,17000000
+Andros Townsend,24,Newcastle,Championship,Crystal Palace,Premier League,2016-2017,9000000,15600000
+Joe Allen,26,Liverpool,Premier League,Stoke City,Premier League,2016-2017,8000000,15500000
+Nampalys Mendy,24,OGC Nice,Ligue 1,Leicester,Premier League,2016-2017,7500000,15500000
+Ryan Mason,25,Spurs,Premier League,Hull City,Premier League,2016-2017,7500000,15400000
+Nacer Chadli,27,Spurs,Premier League,West Brom,Premier League,2016-2017,13000000,15200000
+Robbie Brady,25,Norwich,Championship,Burnley,Premier League,2016-2017,8000000,15100000
+Luka Milivojevic,25,Olympiacos,Super League,Crystal Palace,Premier League,2016-2017,8000000,15100000
+Pierre-Emile Höjbjerg,20,Bayern Munich ,1.Bundesliga,Southampton,Premier League,2016-2017,6000000,15000000
+Isaac Success,20,Granada CF,LaLiga,Watford,Premier League,2016-2017,3000000,15000000
+Victor Wanyama,25,Southampton,Premier League,Spurs,Premier League,2016-2017,15000000,14400000
+Lucas Pérez,27,Dep. La Coruña,LaLiga,Arsenal,Premier League,2016-2017,12000000,14000000
+Ashley Williams,31,Swansea,Premier League,Everton,Premier League,2016-2017,8000000,14000000
+Saido Berahino,23,West Brom,Premier League,Stoke City,Premier League,2016-2017,15000000,13900000
+Jeffrey Schlupp,24,Leicester,Premier League,Crystal Palace,Premier League,2016-2017,8000000,13800000
+Nathan Redmond,22,Norwich,Championship,Southampton,Premier League,2016-2017,7500000,13500000
+Roberto Pereyra,25,Juventus,Serie A,Watford,Premier League,2016-2017,16000000,13000000
+Manuel Lanzini,23,Al-Jazira,UAE Gulf League,West Ham,Premier League,2016-2017,9000000,12000000
+Robert Snodgrass,29,Hull City,Premier League,West Ham,Premier League,2016-2017,5000000,12000000
+Jeff Hendrick,24,Derby,Championship,Burnley,Premier League,2016-2017,1500000,11800000
+James Tomkins,27,West Ham,Premier League,Crystal Palace,Premier League,2016-2017,6000000,11700000
+Jake Livermore,27,Hull City,Premier League,West Brom,Premier League,2016-2017,4500000,11500000
+Georges-Kevin N'Koudou,21,Marseille,Ligue 1,Spurs,Premier League,2016-2017,7000000,11000000
+Patrick van Aanholt,26,Sunderland,Premier League,Crystal Palace,Premier League,2016-2017,6000000,10500000
+Marten de Roon,25,Atalanta,Serie A,Middlesbrough,Premier League,2016-2017,5000000,10500000
+Papy Djilobodji,27,Chelsea,Premier League,Sunderland,Premier League,2016-2017,4500000,9500000
+José Fonte,33,Southampton,Premier League,West Ham,Premier League,2016-2017,6000000,9200000
+Sven Kums,28,KAA Gent,Jupiler Pro League,Watford,Premier League,2016-2017,7500000,9000000
+Kamil Grosicki,28,Stade Rennais,Ligue 1,Hull City,Premier League,2016-2017,6000000,9000000
+Daryl Janmaat,27,Newcastle,Championship,Watford,Premier League,2016-2017,7500000,8900000
+Ademola Lookman,19,Charlton,League One,Everton,Premier League,2016-2017,1500000,8800000
+Steven Defour,28,RSC Anderlecht,Jupiler Pro League,Burnley,Premier League,2016-2017,6000000,8600000
+Idrissa Gueye,26,Aston Villa,Championship,Everton,Premier League,2016-2017,9000000,8500000
+Adama Traoré,20,Aston Villa,Championship,Middlesbrough,Premier League,2016-2017,8000000,8250000
+Rudy Gestede,28,Aston Villa,Championship,Middlesbrough,Premier League,2016-2017,7000000,7100000
+Arthur Masuaku,22,Olympiacos,Super League,West Ham,Premier League,2016-2017,7000000,7100000
+Lewis Cook,19,Leeds,Championship,Bournemouth,Premier League,2016-2017,4000000,7000000
+Christian Kabasele,25,KRC Genk,Jupiler Pro League,Watford,Premier League,2016-2017,6000000,6950000
+Patrick Bamford,23,Chelsea,Premier League,Middlesbrough,Premier League,2016-2017,5000000,6900000
+Matt Phillips,25,QPR,Championship,West Brom,Premier League,2016-2017,6000000,6500000
+Lys Mousset,20,AC Le Havre,Ligue 2,Bournemouth,Premier League,2016-2017,400000,6500000
+Edimilson Fernandes,20,FC Sion,Super League,West Ham,Premier League,2016-2017,4500000,6400000
+Loris Karius,23,1.FSV Mainz 05,1.Bundesliga,Liverpool,Premier League,2016-2017,7000000,6200000
+Gonzalo Higuaín,28,SSC Napoli,Serie A,Juventus,Serie A,2016-2017,65000000,90000000
+João Mário,23,Sporting CP,Liga NOS,Inter,Serie A,2016-2017,30000000,40000000
+Miralem Pjanic,26,AS Roma,Serie A,Juventus,Serie A,2016-2017,35000000,32000000
+Arkadiusz Milik,22,AFC Ajax,Eredivisie,SSC Napoli,Serie A,2016-2017,12000000,32000000
+Gabriel Barbosa,20,Santos FC,Série A,Inter,Serie A,2016-2017,20000000,29500000
+Marko Pjaca,21,Dinamo Zagreb,1.HNL,Juventus,Serie A,2016-2017,8000000,23000000
+Antonio Candreva,29,Lazio,Serie A,Inter,Serie A,2016-2017,23000000,22000000
+Mattia Caldara,22,Atalanta,Serie A,Juventus,Serie A,2016-2017,8000000,19000000
+Leonardo Pavoletti,28,Genoa,Serie A,SSC Napoli,Serie A,2016-2017,13000000,18000000
+Gerson,19,Fluminense,Série A,AS Roma,Serie A,2016-2017,6000000,16600000
+Mohamed Salah,24,Chelsea,Premier League,AS Roma,Serie A,2016-2017,20000000,15000000
+Amadou Diawara,19,Bologna,Serie A,SSC Napoli,Serie A,2016-2017,11000000,14500000
+Piotr Zielinski,22,Udinese Calcio,Serie A,SSC Napoli,Serie A,2016-2017,12000000,14000000
+Stevan Jovetic,27,Man City,Premier League,Inter,Serie A,2016-2017,10000000,13500000
+Stephan El Shaarawy,23,AC Milan,Serie A,AS Roma,Serie A,2016-2017,17000000,13000000
+Edin Dzeko,30,Man City,Premier League,AS Roma,Serie A,2016-2017,18000000,11000000
+Cristian Ansaldi,29,Genoa,Serie A,Inter,Serie A,2016-2017,6000000,10500000
+Dennis Praet,22,RSC Anderlecht,Jupiler Pro League,Sampdoria,Serie A,2016-2017,9000000,10000000
+Lorenzo Tonelli,26,FC Empoli,Serie A,SSC Napoli,Serie A,2016-2017,5500000,10000000
+Éder,29,Sampdoria,Serie A,Inter,Serie A,2016-2017,12000000,9800000
+Mario Lemina,22,Marseille,Ligue 1,Juventus,Serie A,2016-2017,4000000,9800000
+Ciro Immobile,26,Sevilla FC,LaLiga,Lazio,Serie A,2016-2017,10000000,9450000
+Miranda,31,Atlético Madrid,LaLiga,Inter,Serie A,2016-2017,16000000,9000000
+Adem Ljajic,24,AS Roma,Serie A,Torino,Serie A,2016-2017,12000000,9000000
+Antonio Rüdiger,23,VfB Stuttgart,2.Bundesliga,AS Roma,Serie A,2016-2017,10000000,9000000
+Diego Perotti,27,Genoa,Serie A,AS Roma,Serie A,2016-2017,9500000,9000000
+Gianluca Lapadula,26,Pescara,Serie A,AC Milan,Serie A,2016-2017,6500000,9000000
+Gustavo Gómez,23,Lanús,Primera División,AC Milan,Serie A,2016-2017,1750000,8500000
+Gianluca Caprari,22,Pescara,Serie A,Inter,Serie A,2016-2017,3500000,8250000
+Tomás Rincón,28,Genoa,Serie A,Juventus,Serie A,2016-2017,9000000,8000000
+Alisson,23,Internacional,Série A,AS Roma,Serie A,2016-2017,7000000,8000000
+Wallace,21,Braga,Liga NOS,Lazio,Serie A,2016-2017,3500000,8000000
+Dodô,24,AS Roma,Serie A,Inter,Serie A,2016-2017,6000000,7800000
+José Sosa,31,Besiktas,Süper Lig,AC Milan,Serie A,2016-2017,8000000,7500000
+Simone Verdi,24,AC Milan,Serie A,Bologna,Serie A,2016-2017,2000000,6500000
+Corentin Tolisso,22,Olympique Lyon,Ligue 1,Bayern Munich ,1.Bundesliga,2017-2018,22000000,41500000
+Andriy Yarmolenko,27,Dynamo Kyiv,Premier Liga,Bor. Dortmund,1.Bundesliga,2017-2018,18000000,25000000
+Lucas Alario,24,River Plate,Primera División,Bay. Leverkusen,1.Bundesliga,2017-2018,12000000,24000000
+Manuel Akanji,22,FC Basel,Super League,Bor. Dortmund,1.Bundesliga,2017-2018,5000000,21500000
+Kingsley Coman,21,Juventus,Serie A,Bayern Munich ,1.Bundesliga,2017-2018,20000000,21000000
+Niklas Süle,21,TSG Hoffenheim,1.Bundesliga,Bayern Munich ,1.Bundesliga,2017-2018,25000000,20000000
+Kevin Kampl,26,Bay. Leverkusen,1.Bundesliga,RB Leipzig,1.Bundesliga,2017-2018,15000000,20000000
+Maximilian Philipp,23,SC Freiburg,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2017-2018,15000000,20000000
+Nabil Bentaleb,22,Spurs,Premier League,FC Schalke 04,1.Bundesliga,2017-2018,18000000,19000000
+Panagiotis Retsos,19,Olympiacos,Super League,Bay. Leverkusen,1.Bundesliga,2017-2018,5000000,17500000
+Matthias Ginter,23,Bor. Dortmund,1.Bundesliga,Bor. M'gladbach,1.Bundesliga,2017-2018,15000000,17000000
+John Anthony Brooks,24,Hertha BSC,1.Bundesliga,VfL Wolfsburg,1.Bundesliga,2017-2018,14000000,17000000
+Jhon Córdoba,24,1.FSV Mainz 05,1.Bundesliga,1. FC Köln,1.Bundesliga,2017-2018,7000000,17000000
+Jean-Kévin Augustin,20,Paris SG,Ligue 1,RB Leipzig,1.Bundesliga,2017-2018,3000000,16000000
+Bruma,22,Galatasaray,Süper Lig,RB Leipzig,1.Bundesliga,2017-2018,11000000,13000000
+Sandro Wagner,30,TSG Hoffenheim,1.Bundesliga,Bayern Munich ,1.Bundesliga,2017-2018,9000000,13000000
+Yevhen Konoplyanka,27,Sevilla FC,LaLiga,FC Schalke 04,1.Bundesliga,2017-2018,10000000,12500000
+Sven Bender,28,Bor. Dortmund,1.Bundesliga,Bay. Leverkusen,1.Bundesliga,2017-2018,7000000,12500000
+Ömer Toprak,27,Bay. Leverkusen,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2017-2018,16000000,12000000
+Mahmoud Dahoud,21,Bor. M'gladbach,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2017-2018,15000000,12000000
+Denis Zakaria,20,BSC Young Boys,Super League,Bor. M'gladbach,1.Bundesliga,2017-2018,4000000,12000000
+Ignacio Camacho,27,Málaga CF,LaLiga,VfL Wolfsburg,1.Bundesliga,2017-2018,10000000,10000000
+Landry Dimata,19,KV Oostende,Jupiler Pro League,VfL Wolfsburg,1.Bundesliga,2017-2018,6500000,10000000
+Jonathas,28,Rubin Kazan,Premier Liga,Hannover 96,1.Bundesliga,2017-2018,7000000,9000000
+Serge Gnabry,21,Werder Bremen,1.Bundesliga,Bayern Munich ,1.Bundesliga,2017-2018,15000000,8000000
+Davie Selke,22,RB Leipzig,1.Bundesliga,Hertha BSC,1.Bundesliga,2017-2018,6000000,8000000
+Havard Nordtveit,27,West Ham,Premier League,TSG Hoffenheim,1.Bundesliga,2017-2018,5000000,8000000
+Admir Mehmedi,26,Bay. Leverkusen,1.Bundesliga,VfL Wolfsburg,1.Bundesliga,2017-2018,3500000,8000000
+Amine Harit,20,FC Nantes,Ligue 1,FC Schalke 04,1.Bundesliga,2017-2018,2000000,8000000
+Santiago Ascacíbar,20,Estudiantes,Primera División,VfB Stuttgart,1.Bundesliga,2017-2018,7500000,7200000
+Konrad Laimer,20,RB Salzburg,Bundesliga,RB Leipzig,1.Bundesliga,2017-2018,8000000,7000000
+Sébastien Haller,23,FC Utrecht,Eredivisie,E. Frankfurt,1.Bundesliga,2017-2018,8000000,7000000
+Jorge Meré,20,Sporting Gijón,LaLiga2,1. FC Köln,1.Bundesliga,2017-2018,6000000,7000000
+Philippe Coutinho,25,Liverpool,Premier League,FC Barcelona,LaLiga,2017-2018,90000000,125000000
+Ousmane Dembélé,20,Bor. Dortmund,1.Bundesliga,FC Barcelona,LaLiga,2017-2018,33000000,115000000
+Diego Costa,29,Chelsea,Premier League,Atlético Madrid,LaLiga,2017-2018,50000000,66000000
+Paulinho,29,GZ Evergrande,Super League,FC Barcelona,LaLiga,2017-2018,15000000,40000000
+Vitolo,27,Sevilla FC,LaLiga,Atlético Madrid,LaLiga,2017-2018,25000000,36000000
+Iñigo Martínez,26,Real Sociedad,LaLiga,Athletic Bilbao,LaLiga,2017-2018,25000000,32000000
+Nélson Semedo,23,Benfica,Liga NOS,FC Barcelona,LaLiga,2017-2018,20000000,30570000
+Theo Hernández,19,Atlético Madrid,LaLiga,Real Madrid,LaLiga,2017-2018,15000000,24000000
+Luis Muriel,26,Sampdoria,Serie A,Sevilla FC,LaLiga,2017-2018,17000000,21500000
+Dani Ceballos,20,Real Betis,LaLiga,Real Madrid,LaLiga,2017-2018,10000000,16500000
+Simone Zaza,26,Juventus,Serie A,Valencia CF,LaLiga,2017-2018,15000000,16000000
+Francis Coquelin,26,Arsenal,Premier League,Valencia CF,LaLiga,2017-2018,12000000,14000000
+Enes Ünal,20,Man City,Premier League,Villarreal CF,LaLiga,2017-2018,10000000,14000000
+Rúben Semedo,23,Sporting CP,Liga NOS,Villarreal CF,LaLiga,2017-2018,9000000,14000000
+Emre Mor,20,Bor. Dortmund,1.Bundesliga,Celta de Vigo,LaLiga,2017-2018,5000000,13000000
+Simon Kjær,28,Fenerbahce,Süper Lig,Sevilla FC,LaLiga,2017-2018,11000000,12500000
+Gerard Deulofeu,23,Everton,Premier League,FC Barcelona,LaLiga,2017-2018,12000000,12000000
+Pablo Fornals,21,Málaga CF,LaLiga,Villarreal CF,LaLiga,2017-2018,10000000,12000000
+Yerry Mina,23,Palmeiras,Série A,FC Barcelona,LaLiga,2017-2018,9000000,11800000
+Gabriel Paulista,26,Arsenal,Premier League,Valencia CF,LaLiga,2017-2018,13000000,11000000
+Guilherme Arana,20,Corinthians,Série A,Sevilla FC,LaLiga,2017-2018,10000000,11000000
+Marc Bartra,27,Bor. Dortmund,1.Bundesliga,Real Betis,LaLiga,2017-2018,15000000,10500000
+Guido Pizarro,27,Tigres UANL,Liga MX Clausura,Sevilla FC,LaLiga,2017-2018,4000000,8700000
+Adnan Januzaj,22,Man Utd,Premier League,Real Sociedad,LaLiga,2017-2018,7000000,8500000
+Éver Banega,29,Inter,Serie A,Sevilla FC,LaLiga,2017-2018,16000000,7000000
+Nolito,30,Man City,Premier League,Sevilla FC,LaLiga,2017-2018,12000000,7000000
+Ryad Boudebouz,27,Montpellier,Ligue 1,Real Betis,LaLiga,2017-2018,10000000,7000000
+Diego Llorente,23,Real Madrid,LaLiga,Real Sociedad,LaLiga,2017-2018,7500000,7000000
+Víctor Camarasa,23,Levante UD,LaLiga,Real Betis,LaLiga,2017-2018,5000000,7000000
+Neymar,25,FC Barcelona,LaLiga,Paris SG,Ligue 1,2017-2018,100000000,222000000
+Keita Baldé,22,Lazio,Serie A,Monaco,Ligue 1,2017-2018,25000000,30000000
+Youri Tielemans,20,RSC Anderlecht,Jupiler Pro League,Monaco,Ligue 1,2017-2018,22000000,25000000
+Pietro Pellegri,16,Genoa,Serie A,Monaco,Ligue 1,2017-2018,8000000,21000000
+Ismaïla Sarr,19,FC Metz,Ligue 1,Stade Rennais,Ligue 1,2017-2018,2500000,17000000
+Yuri Berchiche,27,Real Sociedad,LaLiga,Paris SG,Ligue 1,2017-2018,10000000,16000000
+Konstantinos Mitroglou,29,Benfica,Liga NOS,Marseille,Ligue 1,2017-2018,12000000,15000000
+Terence Kongolo,23,Feyenoord,Eredivisie,Monaco,Ligue 1,2017-2018,10000000,15000000
+Thiago Maia,20,Santos FC,Série A,LOSC Lille,Ligue 1,2017-2018,3000000,14000000
+Florian Thauvin,24,Newcastle,Premier League,Marseille,Ligue 1,2017-2018,18000000,11000000
+Martin Terrier,20,LOSC Lille,Ligue 1,Olympique Lyon,Ligue 1,2017-2018,12000000,11000000
+Stevan Jovetic,27,Inter,Serie A,Monaco,Ligue 1,2017-2018,10000000,11000000
+Luiz Araújo,21,São Paulo,Série A,LOSC Lille,Ligue 1,2017-2018,500000,10500000
+Luiz Gustavo,29,VfL Wolfsburg,1.Bundesliga,Marseille,Ligue 1,2017-2018,12000000,10000000
+Diafra Sakho,28,West Ham,Premier League,Stade Rennais,Ligue 1,2017-2018,8000000,10000000
+Bertrand Traoré,21,Chelsea,Premier League,Olympique Lyon,Ligue 1,2017-2018,8000000,10000000
+Loïs Diony,24,Dijon,Ligue 1,Saint-Étienne,Ligue 1,2017-2018,3000000,10000000
+Nicolas Pépé,22,SCO Angers,Ligue 1,LOSC Lille,Ligue 1,2017-2018,3000000,10000000
+Allan Saint-Maximin,20,Monaco,Ligue 1,OGC Nice,Ligue 1,2017-2018,3000000,10000000
+Adama Diakhaby,21,Stade Rennais,Ligue 1,Monaco,Ligue 1,2017-2018,1500000,10000000
+Pape Cheikh,20,Celta de Vigo,LaLiga,Olympique Lyon,Ligue 1,2017-2018,800000,10000000
+Thiago Mendes,25,São Paulo,Série A,LOSC Lille,Ligue 1,2017-2018,3500000,9000000
+Kévin Malcuit,25,Saint-Étienne,Ligue 1,LOSC Lille,Ligue 1,2017-2018,3000000,9000000
+Valère Germain,27,Monaco,Ligue 1,Marseille,Ligue 1,2017-2018,10000000,8000000
+Soualiho Meïté,23,Zulte Waregem,Jupiler Pro League,Monaco,Ligue 1,2017-2018,7000000,8000000
+Nicolas de Préville,26,LOSC Lille,Ligue 1,G. Bordeaux,Ligue 1,2017-2018,5500000,8000000
+Mariano Díaz,23,Real Madrid,LaLiga,Olympique Lyon,Ligue 1,2017-2018,5000000,8000000
+Rafik Guitane,18,AC Le Havre,Ligue 2,Stade Rennais,Ligue 1,2017-2018,150000,8000000
+Jonathan Cafú,26,Ludogorets,A Grupa - Championship gr.,G. Bordeaux,Ligue 1,2017-2018,10000000,7500000
+Clinton N'Jie,23,Spurs,Premier League,Marseille,Ligue 1,2017-2018,7000000,7000000
+Marcelo,30,Besiktas,Süper Lig,Olympique Lyon,Ligue 1,2017-2018,6500000,7000000
+Romelu Lukaku,24,Everton,Premier League,Man Utd,Premier League,2017-2018,50000000,84700000
+Virgil van Dijk,26,Southampton,Premier League,Liverpool,Premier League,2017-2018,30000000,78800000
+Álvaro Morata,24,Real Madrid,LaLiga,Chelsea,Premier League,2017-2018,40000000,66000000
+Aymeric Laporte,23,Athletic Bilbao,LaLiga,Man City,Premier League,2017-2018,25000000,65000000
+Pierre-Emerick Aubameyang,28,Bor. Dortmund,1.Bundesliga,Arsenal,Premier League,2017-2018,65000000,63750000
+Benjamin Mendy,23,Monaco,Ligue 1,Man City,Premier League,2017-2018,13000000,57500000
+Alexandre Lacazette,26,Olympique Lyon,Ligue 1,Arsenal,Premier League,2017-2018,40000000,53000000
+Kyle Walker,27,Spurs,Premier League,Man City,Premier League,2017-2018,30000000,52700000
+Bernardo Silva,22,Monaco,Ligue 1,Man City,Premier League,2017-2018,40000000,50000000
+Gylfi Sigurdsson,27,Swansea,Premier League,Everton,Premier League,2017-2018,25000000,49400000
+Nemanja Matic,29,Chelsea,Premier League,Man Utd,Premier League,2017-2018,35000000,44700000
+Mohamed Salah,25,AS Roma,Serie A,Liverpool,Premier League,2017-2018,35000000,42000000
+Ederson,23,Benfica,Liga NOS,Man City,Premier League,2017-2018,22000000,40000000
+Tiemoué Bakayoko,22,Monaco,Ligue 1,Chelsea,Premier League,2017-2018,16000000,40000000
+Davinson Sánchez,21,AFC Ajax,Eredivisie,Spurs,Premier League,2017-2018,12000000,40000000
+Alex Oxlade-Chamberlain,24,Arsenal,Premier League,Liverpool,Premier League,2017-2018,22000000,38000000
+Danny Drinkwater,27,Leicester,Premier League,Chelsea,Premier League,2017-2018,9000000,37900000
+Antonio Rüdiger,24,AS Roma,Serie A,Chelsea,Premier League,2017-2018,25000000,35000000
+Victor Lindelöf,22,Benfica,Liga NOS,Man Utd,Premier League,2017-2018,22000000,35000000
+Danilo,26,Real Madrid,LaLiga,Man City,Premier League,2017-2018,16000000,30000000
+Michael Keane,24,Burnley,Premier League,Everton,Premier League,2017-2018,18000000,28500000
+Jordan Pickford,23,Sunderland,Championship,Everton,Premier League,2017-2018,15000000,28500000
+Lucas Moura,25,Paris SG,Ligue 1,Spurs,Premier League,2017-2018,28000000,28400000
+Mamadou Sakho,27,Liverpool,Premier League,Crystal Palace,Premier League,2017-2018,15000000,28200000
+Kelechi Iheanacho,20,Man City,Premier League,Leicester,Premier League,2017-2018,15000000,27700000
+Davy Klaassen,24,AFC Ajax,Eredivisie,Everton,Premier League,2017-2018,18000000,27000000
+Serge Aurier,24,Paris SG,Ligue 1,Spurs,Premier League,2017-2018,15000000,25000000
+Davide Zappacosta,25,Torino,Serie A,Chelsea,Premier League,2017-2018,8500000,25000000
+Adrien Silva,28,Sporting CP,Liga NOS,Leicester,Premier League,2017-2018,25000000,24500000
+André Ayew,28,West Ham,Premier League,Swansea,Premier League,2017-2018,18000000,22800000
+Nathan Aké,22,Chelsea,Premier League,Bournemouth,Premier League,2017-2018,8000000,22800000
+Theo Walcott,28,Arsenal,Premier League,Everton,Premier League,2017-2018,20000000,22500000
+Cenk Tosun,26,Besiktas,Süper Lig,Everton,Premier League,2017-2018,10500000,22500000
+Marko Arnautovic,28,Stoke City,Premier League,West Ham,Premier League,2017-2018,15000000,22300000
+Guido Carrillo,26,Monaco,Ligue 1,Southampton,Premier League,2017-2018,6000000,22000000
+Andre Gray,26,Burnley,Premier League,Watford,Premier League,2017-2018,10000000,20400000
+Emerson,23,AS Roma,Serie A,Chelsea,Premier League,2017-2018,14000000,20000000
+Kevin Wimmer,24,Spurs,Premier League,Stoke City,Premier League,2017-2018,7000000,19400000
+Chicharito,29,Bay. Leverkusen,1.Bundesliga,West Ham,Premier League,2017-2018,18000000,17800000
+Olivier Giroud,31,Arsenal,Premier League,Chelsea,Premier League,2017-2018,20000000,17000000
+Jürgen Locadia,24,PSV Eindhoven,Eredivisie,Brighton,Premier League,2017-2018,8500000,17000000
+Mario Lemina,23,Juventus,Serie A,Southampton,Premier League,2017-2018,7500000,17000000
+Ross Barkley,24,Everton,Premier League,Chelsea,Premier League,2017-2018,25000000,16900000
+Wesley Hoedt,23,Lazio,Serie A,Southampton,Premier League,2017-2018,7500000,16400000
+Chris Wood,25,Leeds,Championship,Burnley,Premier League,2017-2018,6000000,16400000
+Sam Clucas,26,Hull City,Championship,Swansea,Premier League,2017-2018,2500000,16300000
+Badou Ndiaye,27,Galatasaray,Süper Lig,Stoke City,Premier League,2017-2018,7000000,16000000
+Oliver Burke,20,RB Leipzig,1.Bundesliga,West Brom,Premier League,2017-2018,7000000,15200000
+Fernando Llorente,32,Swansea,Premier League,Spurs,Premier League,2017-2018,6000000,15100000
+José Izquierdo,25,Club Brugge,Jupiler Pro League,Brighton,Premier League,2017-2018,14000000,15000000
+Vicente Iborra,29,Sevilla FC,LaLiga,Leicester,Premier League,2017-2018,9000000,15000000
+Jay Rodríguez,27,Southampton,Premier League,West Brom,Premier League,2017-2018,10000000,13700000
+Harry Maguire,24,Hull City,Championship,Leicester,Premier League,2017-2018,8000000,13700000
+Wilfried Bony,28,Man City,Premier League,Swansea,Premier League,2017-2018,18000000,13000000
+Davy Pröpper,25,PSV Eindhoven,Eredivisie,Brighton,Premier League,2017-2018,10000000,13000000
+Steve Mounié,22,Montpellier,Ligue 1,Huddersfield,Premier League,2017-2018,5500000,13000000
+Roque Mesa,28,UD Las Palmas,LaLiga,Swansea,Premier League,2017-2018,12000000,12500000
+Richarlison,20,Fluminense,Série A,Watford,Premier League,2017-2018,2000000,12400000
+Alex Pritchard,24,Norwich,Championship,Huddersfield,Premier League,2017-2018,5000000,12350000
+Asmir Begovic,30,Chelsea,Premier League,Bournemouth,Premier League,2017-2018,8000000,11500000
+Jacob Murphy,22,Norwich,Championship,Newcastle,Premier League,2017-2018,1000000,11300000
+Nikola Vlasic,19,Hajduk Split,1.HNL,Everton,Premier League,2017-2018,4000000,10800000
+Jordan Hugill,25,Preston NE,Championship,West Ham,Premier League,2017-2018,3000000,10200000
+Florian Lejeune,26,SD Eibar,LaLiga,Newcastle,Premier League,2017-2018,5000000,10000000
+Tom Cleverley,27,Everton,Premier League,Watford,Premier League,2017-2018,8000000,9300000
+Will Hughes,22,Derby,Championship,Watford,Premier League,2017-2018,8000000,9100000
+Tom Ince,25,Derby,Championship,Huddersfield,Premier League,2017-2018,7000000,9100000
+Aaron Mooy,26,Man City,Premier League,Huddersfield,Premier League,2017-2018,5000000,9100000
+Jack Cork,28,Swansea,Premier League,Burnley,Premier League,2017-2018,5000000,9100000
+Andrew Robertson,23,Hull City,Championship,Liverpool,Premier League,2017-2018,7000000,9000000
+Jairo Riedewald,20,AFC Ajax,Eredivisie,Crystal Palace,Premier League,2017-2018,5000000,9000000
+Henry Onyekuru,20,KAS Eupen,Jupiler Pro League,Everton,Premier League,2017-2018,7000000,8000000
+Alexander Sörloth,22,FC Midtjylland,Superligaen Championship round,Crystal Palace,Premier League,2017-2018,2000000,7800000
+Bruno Martins Indi,25,FC Porto,Liga NOS,Stoke City,Premier League,2017-2018,11000000,7700000
+Kieran Gibbs,27,Arsenal,Premier League,West Brom,Premier League,2017-2018,10000000,7500000
+Christian Atsu,25,Chelsea,Premier League,Newcastle,Premier League,2017-2018,5000000,7500000
+Yuning Zhang,20,Vitesse,Eredivisie,West Brom,Premier League,2017-2018,700000,7200000
+Leonardo Bonucci,30,Juventus,Serie A,AC Milan,Serie A,2017-2018,45000000,42000000
+Federico Bernardeschi,23,Fiorentina,Serie A,Juventus,Serie A,2017-2018,30000000,40000000
+André Silva,21,FC Porto,Liga NOS,AC Milan,Serie A,2017-2018,22000000,38000000
+Milan Skriniar,22,Sampdoria,Serie A,Inter,Serie A,2017-2018,7000000,27000000
+Matías Vecino,25,Fiorentina,Serie A,Inter,Serie A,2017-2018,13000000,24000000
+Andrea Conti,23,Atalanta,Serie A,AC Milan,Serie A,2017-2018,10000000,24000000
+Hakan Calhanoglu,23,Bay. Leverkusen,1.Bundesliga,AC Milan,Serie A,2017-2018,20000000,22000000
+Blaise Matuidi,30,Paris SG,Ligue 1,Juventus,Serie A,2017-2018,30000000,20000000
+Juan Cuadrado,29,Chelsea,Premier League,Juventus,Serie A,2017-2018,25000000,20000000
+Roberto Gagliardini,23,Atalanta,Serie A,Inter,Serie A,2017-2018,20000000,20000000
+Nikola Maksimovic,25,Torino,Serie A,SSC Napoli,Serie A,2017-2018,10000000,20000000
+Dalbert,23,OGC Nice,Ligue 1,Inter,Serie A,2017-2018,5000000,20000000
+Mateo Musacchio,26,Villarreal CF,LaLiga,AC Milan,Serie A,2017-2018,18000000,18000000
+Lucas Biglia,31,Lazio,Serie A,AC Milan,Serie A,2017-2018,20000000,17000000
+Medhi Benatia,30,Bayern Munich ,1.Bundesliga,Juventus,Serie A,2017-2018,15000000,17000000
+Ricardo Rodríguez,24,VfL Wolfsburg,1.Bundesliga,AC Milan,Serie A,2017-2018,17000000,15000000
+Giovanni Simeone,22,Genoa,Serie A,Fiorentina,Serie A,2017-2018,10000000,15000000
+Gianluca Caprari,23,Inter,Serie A,Sampdoria,Serie A,2017-2018,6000000,15000000
+Rick Karsdorp,22,Feyenoord,Eredivisie,AS Roma,Serie A,2017-2018,9000000,14000000
+Marten de Roon,26,Middlesbrough,Championship,Atalanta,Serie A,2017-2018,10000000,13500000
+Cengiz Ünder,20,Basaksehir,Süper Lig,AS Roma,Serie A,2017-2018,5000000,13400000
+Marko Rog,21,Dinamo Zagreb,1.HNL,SSC Napoli,Serie A,2017-2018,10000000,13000000
+Bruno Peres,27,Torino,Serie A,AS Roma,Serie A,2017-2018,11000000,12500000
+Wojciech Szczesny,27,Arsenal,Premier League,Juventus,Serie A,2017-2018,17000000,12200000
+Mattia De Sciglio,24,AC Milan,Serie A,Juventus,Serie A,2017-2018,8500000,12000000
+Rodrigo Bentancur,20,Boca Juniors,Primera División,Juventus,Serie A,2017-2018,6000000,10500000
+Lorenzo Pellegrini,21,Sassuolo,Serie A,AS Roma,Serie A,2017-2018,12000000,10000000
+Marco Benassi,22,Torino,Serie A,Fiorentina,Serie A,2017-2018,9500000,10000000
+Roberto Inglese,25,Chievo Verona,Serie A,SSC Napoli,Serie A,2017-2018,4500000,10000000
+Adam Ounas,20,G. Bordeaux,Ligue 1,SSC Napoli,Serie A,2017-2018,4000000,10000000
+Gastón Ramírez,26,Middlesbrough,Championship,Sampdoria,Serie A,2017-2018,6000000,9000000
+Juan Jesus,26,Inter,Serie A,AS Roma,Serie A,2017-2018,7500000,8000000
+Vitor Hugo,26,Palmeiras,Série A,Fiorentina,Serie A,2017-2018,4500000,8000000
+Alessandro Bastoni,18,Atalanta,Serie A,Inter,Serie A,2017-2018,1500000,8000000
+Filippo Romagna,20,Juventus,Serie A,Cagliari Calcio,Serie A,2017-2018,1000000,7600000
+Jordan Veretout,24,Aston Villa,Championship,Fiorentina,Serie A,2017-2018,9000000,7000000
+Abdou Diallo,22,1.FSV Mainz 05,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2018-2019,12000000,28000000
+Alassane Pléa,25,OGC Nice,Ligue 1,Bor. M'gladbach,1.Bundesliga,2018-2019,18000000,23000000
+Thomas Delaney,26,Werder Bremen,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2018-2019,12000000,20000000
+Paulinho,18,Vasco da Gama,Série A,Bay. Leverkusen,1.Bundesliga,2018-2019,25000000,18500000
+Nordi Mukiele,20,Montpellier,Ligue 1,RB Leipzig,1.Bundesliga,2018-2019,14000000,16000000
+Matheus Cunha,19,FC Sion,Super League,RB Leipzig,1.Bundesliga,2018-2019,1500000,15000000
+Daniel Ginczek,27,VfB Stuttgart,1.Bundesliga,VfL Wolfsburg,1.Bundesliga,2018-2019,3500000,14000000
+Davy Klaassen,25,Everton,Premier League,Werder Bremen,1.Bundesliga,2018-2019,15000000,13500000
+Mitchell Weiser,24,Hertha BSC,1.Bundesliga,Bay. Leverkusen,1.Bundesliga,2018-2019,12000000,12000000
+Marcelo Saracchi,20,River Plate,Primera División,RB Leipzig,1.Bundesliga,2018-2019,4500000,12000000
+Suat Serdar,21,1.FSV Mainz 05,1.Bundesliga,FC Schalke 04,1.Bundesliga,2018-2019,7500000,11000000
+Wout Weghorst,25,AZ Alkmaar,Eredivisie,VfL Wolfsburg,1.Bundesliga,2018-2019,7000000,10500000
+Omar Mascarell,25,Real Madrid,LaLiga,FC Schalke 04,1.Bundesliga,2018-2019,8000000,10000000
+Alphonso Davies,18,Vancouver, Canada,Bayern Munich ,1.Bundesliga,2018-2019,800000,10000000
+Pablo Maffeo,20,Man City,Premier League,VfB Stuttgart,1.Bundesliga,2018-2019,10000000,9000000
+Nicólas González,20,Argentinos,Primera División,VfB Stuttgart,1.Bundesliga,2018-2019,5000000,8500000
+Kasim Adams,23,BSC Young Boys,Super League,TSG Hoffenheim,1.Bundesliga,2018-2019,8500000,8000000
+Jean-Philippe Mateta,21,Olympique Lyon,Ligue 1,1.FSV Mainz 05,1.Bundesliga,2018-2019,2500000,8000000
+Pierre Kunde,22,Atlético Madrid,LaLiga,1.FSV Mainz 05,1.Bundesliga,2018-2019,2000000,7500000
+Salif Sané,27,Hannover 96,1.Bundesliga,FC Schalke 04,1.Bundesliga,2018-2019,18000000,7000000
+Marcel Tisserand,25,FC Ingolstadt,2.Bundesliga,VfL Wolfsburg,1.Bundesliga,2018-2019,7500000,7000000
+Valentino Lazaro,22,RB Salzburg,Bundesliga,Hertha BSC,1.Bundesliga,2018-2019,9000000,6500000
+Leonardo Bittencourt,24,1. FC Köln,2.Bundesliga,TSG Hoffenheim,1.Bundesliga,2018-2019,6000000,6000000
+Moussa Niakhaté,22,FC Metz,Ligue 2,1.FSV Mainz 05,1.Bundesliga,2018-2019,5000000,6000000
+Walace,23,Hamburger SV,2.Bundesliga,Hannover 96,1.Bundesliga,2018-2019,4500000,6000000
+Borna Sosa,20,Dinamo Zagreb,1.HNL,VfB Stuttgart,1.Bundesliga,2018-2019,1750000,6000000
+Vincenzo Grifo,25,Bor. M'gladbach,1.Bundesliga,TSG Hoffenheim,1.Bundesliga,2018-2019,7500000,5500000
+Ishak Belfodil,26,Standard Liège,Jupiler Pro League,TSG Hoffenheim,1.Bundesliga,2018-2019,5500000,5500000
+Marius Wolf,23,E. Frankfurt,1.Bundesliga,Bor. Dortmund,1.Bundesliga,2018-2019,10000000,5000000
+Gonzalo Castro,31,Bor. Dortmund,1.Bundesliga,VfB Stuttgart,1.Bundesliga,2018-2019,8000000,5000000
+Luca Waldschmidt,22,Hamburger SV,2.Bundesliga,SC Freiburg,1.Bundesliga,2018-2019,2500000,5000000
+Evan N'Dicka,18,AJ Auxerre,Ligue 2,E. Frankfurt,1.Bundesliga,2018-2019,400000,5000000
+Yuya Osako,28,1. FC Köln,2.Bundesliga,Werder Bremen,1.Bundesliga,2018-2019,4500000,4500000
+Thomas Lemar,22,Monaco,Ligue 1,Atlético Madrid,LaLiga,2018-2019,65000000,70000000
+Vinícius Júnior,18,Flamengo,Série A,Real Madrid,LaLiga,2018-2019,35000000,45000000
+Malcom,21,G. Bordeaux,Ligue 1,FC Barcelona,LaLiga,2018-2019,45000000,41000000
+Clément Lenglet,23,Sevilla FC,LaLiga,FC Barcelona,LaLiga,2018-2019,25000000,35900000
+Arthur,21,Grêmio,Série A,FC Barcelona,LaLiga,2018-2019,30000000,31000000
+Álvaro Odriozola,22,Real Sociedad,LaLiga,Real Madrid,LaLiga,2018-2019,25000000,30000000
+Geoffrey Kondogbia,25,Inter,Serie A,Valencia CF,LaLiga,2018-2019,30000000,25000000
+Yuri Berchiche,28,Paris SG,Ligue 1,Athletic Bilbao,LaLiga,2018-2019,17000000,24000000
+William Carvalho,26,Sporting CP,Liga NOS,Real Betis,LaLiga,2018-2019,25000000,20000000
+Rodri,22,Villarreal CF,LaLiga,Atlético Madrid,LaLiga,2018-2019,25000000,20000000
+Gerard Moreno,26,Espanyol,LaLiga,Villarreal CF,LaLiga,2018-2019,20000000,20000000
+Karl Toko Ekambi,25,SCO Angers,Ligue 1,Villarreal CF,LaLiga,2018-2019,18000000,18000000
+Joris Gnagnon,21,Stade Rennais,Ligue 1,Sevilla FC,LaLiga,2018-2019,15000000,15000000
+Mouctar Diakhaby,21,Olympique Lyon,Ligue 1,Valencia CF,LaLiga,2018-2019,10000000,15000000
+Ibrahim Amadou,25,LOSC Lille,Ligue 1,Sevilla FC,LaLiga,2018-2019,3500000,15000000
+Roger Martínez,24,JS Suning,Super League,Villarreal CF,LaLiga,2018-2019,2500000,14900000
+Mikel Merino,22,Newcastle,Premier League,Real Sociedad,LaLiga,2018-2019,10000000,12000000
+Santiago Arias,26,PSV Eindhoven,Eredivisie,Atlético Madrid,LaLiga,2018-2019,18000000,11000000
+Santiago Cáseres,21,Vélez Sarsfield,Primera División,Villarreal CF,LaLiga,2018-2019,6000000,10000000
+Borja Iglesias,25,Celta de Vigo,LaLiga,Espanyol,LaLiga,2018-2019,1000000,10000000
+Ramiro Funes Mori,27,Everton,Premier League,Villarreal CF,LaLiga,2018-2019,10000000,9000000
+Andriy Lunin,19,Zorya Lugansk,Premier Liga,Real Madrid,LaLiga,2018-2019,3500000,8500000
+Sergi Darder,24,Olympique Lyon,Ligue 1,Espanyol,LaLiga,2018-2019,11000000,8000000
+Cristiano Piccini,25,Sporting CP,Liga NOS,Valencia CF,LaLiga,2018-2019,7500000,8000000
+Fran Beltrán,19,Rayo Vallecano,LaLiga,Celta de Vigo,LaLiga,2018-2019,2000000,8000000
+Jonny Castro,24,Celta de Vigo,LaLiga,Atlético Madrid,LaLiga,2018-2019,12000000,7000000
+Tomas Vaclik,29,FC Basel,Super League,Sevilla FC,LaLiga,2018-2019,4000000,7000000
+Néstor Araujo,26,Santos Laguna,Liga MX Apertura,Celta de Vigo,LaLiga,2018-2019,2800000,7000000
+Daniel Wass,29,Celta de Vigo,LaLiga,Valencia CF,LaLiga,2018-2019,15000000,6000000
+Okay Yokuslu,24,Trabzonspor,Süper Lig,Celta de Vigo,LaLiga,2018-2019,7500000,6000000
+Roque Mesa,29,Swansea,Championship,Sevilla FC,LaLiga,2018-2019,7000000,6000000
+Sergi Gómez,26,Celta de Vigo,LaLiga,Sevilla FC,LaLiga,2018-2019,8000000,5000000
+Nemanja Maksimovic,23,Valencia CF,LaLiga,Getafe CF,LaLiga,2018-2019,5000000,5000000
+Johan Mojica,25,Rayo Vallecano,LaLiga,Girona FC,LaLiga,2018-2019,4000000,5000000
+Marc Muniesa,26,Stoke City,Championship,Girona FC,LaLiga,2018-2019,2500000,5000000
+Kylian Mbappé,19,Monaco,Ligue 1,Paris SG,Ligue 1,2018-2019,120000000,135000000
+Aleksandr Golovin,22,CSKA Moscow,Premier Liga,Monaco,Ligue 1,2018-2019,25000000,30000000
+Willem Geubbels,16,Olympique Lyon,Ligue 1,Monaco,Ligue 1,2018-2019,6000000,20000000
+Duje Caleta-Car,21,RB Salzburg,Bundesliga,Marseille,Ligue 1,2018-2019,10000000,19000000
+Jean-Eudes Aholou,24,R. Strasbourg,Ligue 1,Monaco,Ligue 1,2018-2019,3000000,14000000
+Jordan Amavi,24,Aston Villa,Championship,Marseille,Ligue 1,2018-2019,16000000,10000000
+Danilo,22,Braga,Liga NOS,OGC Nice,Ligue 1,2018-2019,7000000,10000000
+Pelé,26,Rio Ave FC,Liga NOS,Monaco,Ligue 1,2018-2019,4000000,10000000
+Antonio Barreca,23,Torino,Serie A,Monaco,Ligue 1,2018-2019,3500000,10000000
+Jordan Siebatcheu,22,Reims,Ligue 1,Stade Rennais,Ligue 1,2018-2019,2500000,9000000
+Tanguy Ndombélé,21,SC Amiens,Ligue 1,Olympique Lyon,Ligue 1,2018-2019,25000000,8000000
+Wahbi Khazri,27,Sunderland,League One,Saint-Étienne,Ligue 1,2018-2019,10000000,7000000
+Ronaël Pierre-Gabriel,20,Saint-Étienne,Ligue 1,Monaco,Ligue 1,2018-2019,4000000,6000000
+Christophe Hérelle,25,Troyes,Ligue 2,OGC Nice,Ligue 1,2018-2019,6000000,5000000
+Firmin Mubele,24,Stade Rennais,Ligue 1,Toulouse,Ligue 1,2018-2019,6000000,5000000
+Jonathan Ikoné,20,Paris SG,Ligue 1,LOSC Lille,Ligue 1,2018-2019,700000,5000000
+Riyad Mahrez,27,Leicester,Premier League,Man City,Premier League,2018-2019,50000000,67800000
+Alisson,25,AS Roma,Serie A,Liverpool,Premier League,2018-2019,60000000,62500000
+Naby Keïta,23,RB Leipzig,1.Bundesliga,Liverpool,Premier League,2018-2019,65000000,60000000
+Fred,25,Shakhtar D.,Premier Liga,Man Utd,Premier League,2018-2019,32000000,59000000
+Jorginho,26,SSC Napoli,Serie A,Chelsea,Premier League,2018-2019,50000000,57000000
+Fabinho,24,Monaco,Ligue 1,Liverpool,Premier League,2018-2019,45000000,45000000
+Richarlison,21,Watford,Premier League,Everton,Premier League,2018-2019,25000000,39200000
+Felipe Anderson,25,Lazio,Serie A,West Ham,Premier League,2018-2019,30000000,38000000
+Jean Michaël Seri,27,OGC Nice,Ligue 1,Fulham,Premier League,2018-2019,30000000,30000000
+Lucas Torreira,22,Sampdoria,Serie A,Arsenal,Premier League,2018-2019,30000000,30000000
+Issa Diop,21,Toulouse,Ligue 1,West Ham,Premier League,2018-2019,22000000,25000000
+Bernd Leno,26,Bay. Leverkusen,1.Bundesliga,Arsenal,Premier League,2018-2019,20000000,25000000
+Jannik Vestergaard,25,Bor. M'gladbach,1.Bundesliga,Southampton,Premier League,2018-2019,14000000,25000000
+James Maddison,21,Norwich,Championship,Leicester,Premier League,2018-2019,10000000,25000000
+Ricardo Pereira,24,FC Porto,Liga NOS,Leicester,Premier League,2018-2019,20000000,22000000
+Diogo Dalot,19,FC Porto,Liga NOS,Man Utd,Premier League,2018-2019,15000000,22000000
+Lucas Digne,25,FC Barcelona,LaLiga,Everton,Premier League,2018-2019,15000000,20200000
+Aleksandar Mitrovic,23,Newcastle,Premier League,Fulham,Premier League,2018-2019,15000000,20200000
+Andriy Yarmolenko,28,Bor. Dortmund,1.Bundesliga,West Ham,Premier League,2018-2019,23000000,20000000
+Terence Kongolo,24,Monaco,Ligue 1,Huddersfield,Premier League,2018-2019,10000000,20000000
+Alireza Jahanbakhsh,24,AZ Alkmaar,Eredivisie,Brighton,Premier League,2018-2019,18000000,19000000
+Mohamed Elyounoussi,23,FC Basel,Super League,Southampton,Premier League,2018-2019,8500000,18000000
+Yves Bissouma,21,LOSC Lille,Ligue 1,Brighton,Premier League,2018-2019,8000000,16900000
+Sokratis,30,Bor. Dortmund,1.Bundesliga,Arsenal,Premier League,2018-2019,20000000,16000000
+Xherdan Shaqiri,26,Stoke City,Championship,Liverpool,Premier League,2018-2019,18000000,14700000
+Diogo Jota,21,Atlético Madrid,LaLiga,Wolves,Premier League,2018-2019,12000000,14000000
+Danny Ward,25,Liverpool,Premier League,Leicester,Premier League,2018-2019,2500000,14000000
+Gerard Deulofeu,24,FC Barcelona,LaLiga,Watford,Premier League,2018-2019,14000000,13000000
+Willy Boly,27,FC Porto,Liga NOS,Wolves,Premier League,2018-2019,5000000,12000000
+Diego Rico,25,CD Leganés,LaLiga,Bournemouth,Premier League,2018-2019,2500000,12000000
+Benik Afobe,25,Bournemouth,Premier League,Wolves,Premier League,2018-2019,10000000,11400000
+Josh Murphy,23,Norwich,Championship,Cardiff,Premier League,2018-2019,1500000,11400000
+Bobby Reid,25,Bristol City,Championship,Cardiff,Premier League,2018-2019,3000000,11350000
+David Brooks,20,Sheffield Utd.,Championship,Bournemouth,Premier League,2018-2019,5000000,11300000
+Angus Gunn,22,Man City,Premier League,Southampton,Premier League,2018-2019,2000000,11300000
+Bernardo,23,RB Leipzig,1.Bundesliga,Brighton,Premier League,2018-2019,6000000,10000000
+Adama Diakhaby,22,Monaco,Ligue 1,Huddersfield,Premier League,2018-2019,5000000,10000000
+Keno,28,Palmeiras,Série A,Pyramids FC,Premier League,2018-2019,3500000,8600000
+Lukasz Fabianski,33,Swansea,Championship,West Ham,Premier League,2018-2019,5000000,8000000
+Mattéo Guendouzi,19,FC Lorient,Ligue 2,Arsenal,Premier League,2018-2019,2500000,8000000
+Stuart Armstrong,26,Celtic,Premiership,Southampton,Premier League,2018-2019,2000000,7950000
+Mikel Merino,22,Bor. Dortmund,1.Bundesliga,Newcastle,Premier League,2018-2019,10000000,7000000
+Ramadan Sobhi,21,Stoke City,Championship,Huddersfield,Premier League,2018-2019,7000000,6500000
+Florin Andone,25,Dep. La Coruña,LaLiga2,Brighton,Premier League,2018-2019,6000000,6000000
+Fabri,30,Besiktas,Süper Lig,Fulham,Premier League,2018-2019,4000000,6000000
+João Moutinho,31,Monaco,Ligue 1,Wolves,Premier League,2018-2019,10000000,5600000
+Carlos Eduardo,21,Goiás EC,Série B,Pyramids FC,Premier League,2018-2019,2500000,5200000
+Rodriguinho,30,Corinthians,Série A,Pyramids FC,Premier League,2018-2019,6000000,5100000
+Adam Masina,24,Bologna,Serie A,Watford,Premier League,2018-2019,7000000,5000000
+Florent Hadergjonaj,23,FC Ingolstadt,2.Bundesliga,Huddersfield,Premier League,2018-2019,5000000,5000000
+Cristiano Ronaldo,33,Real Madrid,LaLiga,Juventus,Serie A,2018-2019,100000000,117000000
+João Cancelo,24,Valencia CF,LaLiga,Juventus,Serie A,2018-2019,35000000,40400000
+Douglas Costa,27,Bayern Munich ,1.Bundesliga,Juventus,Serie A,2018-2019,55000000,40000000
+Radja Nainggolan,30,AS Roma,Serie A,Inter,Serie A,2018-2019,45000000,38000000
+Fabián Ruiz,22,Real Betis,LaLiga,SSC Napoli,Serie A,2018-2019,20000000,30000000
+Simone Verdi,25,Bologna,Serie A,SSC Napoli,Serie A,2018-2019,25000000,25000000
+Javier Pastore,29,Paris SG,Ligue 1,AS Roma,Serie A,2018-2019,15000000,24700000
+Alex Meret,21,Udinese Calcio,Serie A,SSC Napoli,Serie A,2018-2019,12000000,22000000
+Nikola Kalinic,30,Fiorentina,Serie A,AC Milan,Serie A,2018-2019,14000000,20000000
+Rolando Mandragora,21,Juventus,Serie A,Udinese Calcio,Serie A,2018-2019,10000000,20000000
+Justin Kluivert,19,AFC Ajax,Eredivisie,AS Roma,Serie A,2018-2019,15000000,17250000
+Duván Zapata,27,SSC Napoli,Serie A,Sampdoria,Serie A,2018-2019,20000000,17000000
+Lautaro Martínez,20,Racing Club,Primera División,Inter,Serie A,2018-2019,25000000,16000000
+Joaquín Correa,23,Sevilla FC,LaLiga,Lazio,Serie A,2018-2019,10000000,15000000
+Grégoire Defrel,27,Sassuolo,Serie A,AS Roma,Serie A,2018-2019,10000000,15000000
+Mattia Perin,25,Genoa,Serie A,Juventus,Serie A,2018-2019,16000000,12000000
+M'Baye Niang,23,AC Milan,Serie A,Torino,Serie A,2018-2019,10000000,12000000
+Gianluca Lapadula,28,AC Milan,Serie A,Genoa,Serie A,2018-2019,7000000,11000000
+Francesco Acerbi,30,Sassuolo,Serie A,Lazio,Serie A,2018-2019,10000000,10000000
+Leonardo Pavoletti,29,SSC Napoli,Serie A,Cagliari Calcio,Serie A,2018-2019,9000000,10000000
+Soualiho Meïté,24,Monaco,Ligue 1,Torino,Serie A,2018-2019,8000000,10000000
+Diego Falcinelli,27,Sassuolo,Serie A,Bologna,Serie A,2018-2019,3800000,10000000
+Federico Di Francesco,24,Bologna,Serie A,Sassuolo,Serie A,2018-2019,3500000,10000000
+Davide Santon,27,Inter,Serie A,AS Roma,Serie A,2018-2019,3000000,9500000
+Patrik Schick,22,Sampdoria,Serie A,AS Roma,Serie A,2018-2019,20000000,9000000
+Germán Pezzella,27,Real Betis,LaLiga,Fiorentina,Serie A,2018-2019,13000000,9000000
+Riccardo Saponara,26,FC Empoli,Serie A,Fiorentina,Serie A,2018-2019,9000000,9000000
+Khouma Babacar,25,Fiorentina,Serie A,Sassuolo,Serie A,2018-2019,8000000,9000000
+Lukasz Skorupski,27,AS Roma,Serie A,Bologna,Serie A,2018-2019,7000000,9000000
+Antonino La Gumina,22,US Palermo,Serie B,FC Empoli,Serie A,2018-2019,2000000,9000000
+Alban Lafont,19,Toulouse,Ligue 1,Fiorentina,Serie A,2018-2019,18000000,8500000
+Robin Olsen,28,FC Copenhagen,Superligaen,AS Roma,Serie A,2018-2019,2500000,8500000
+Armando Izzo,26,Genoa,Serie A,Torino,Serie A,2018-2019,8500000,8000000
+Ignacio Pussetto,22,Huracán,Primera División,Udinese Calcio,Serie A,2018-2019,7000000,8000000
+Omar Colley,25,KRC Genk,Jupiler Pro League,Sampdoria,Serie A,2018-2019,5000000,7750000
+Valon Berisha,25,RB Salzburg,Bundesliga,Lazio,Serie A,2018-2019,10000000,7500000
+Andrea Favilli,21,Ascoli,Serie B,Juventus,Serie A,2018-2019,4000000,7500000
+Federico Valietti,19,Inter,Serie A,Genoa,Serie A,2018-2019,500000,7500000
+Federico Dimarco,20,FC Sion,Super League,Inter,Serie A,2018-2019,2000000,7000000
+Lucas Castro,29,Chievo Verona,Serie A,Cagliari Calcio,Serie A,2018-2019,7000000,6500000
+Riza Durmisi,24,Real Betis,LaLiga,Lazio,Serie A,2018-2019,5000000,6500000
+Ronaldo Vieira,20,Leeds,Championship,Sampdoria,Serie A,2018-2019,2000000,6500000
+Tomás Rincón,30,Juventus,Serie A,Torino,Serie A,2018-2019,8000000,6000000
+Ante Coric,21,Dinamo Zagreb,1.HNL,AS Roma,Serie A,2018-2019,7500000,6000000
+Federico Santander,27,FC Copenhagen,Superligaen,Bologna,Serie A,2018-2019,2000000,6000000
+Bremer,21,Atlético-MG,Série A,Torino,Serie A,2018-2019,1000000,5800000
+Fabio Borini,27,Sunderland,League One,AC Milan,Serie A,2018-2019,7000000,5500000
+Bryan Cristante,23,Benfica,Liga NOS,Atalanta,Serie A,2018-2019,25000000,5000000
+Christian Kouamé,20,Cittadella,Serie B,Genoa,Serie A,2018-2019,2800000,5000000
+Felipe Vizeu,21,Flamengo,Série A,Udinese Calcio,Serie A,2018-2019,1500000,5000000
+Marco Tumminello,19,AS Roma,Serie A,Atalanta,Serie A,2018-2019,1000000,5000000
+Jens Odgaard,19,Inter,Serie A,Sassuolo,Serie A,2018-2019,800000,5000000
+Marco Carraro,20,Inter,Serie A,Atalanta,Serie A,2018-2019,800000,5000000
+Giangiacomo Magnani,22,Juventus,Serie A,Sassuolo,Serie A,2018-2019,600000,5000000
+Giangiacomo Magnani,22,Perugia,Serie B,Juventus,Serie A,2018-2019,600000,5000000
+Jasmin Kurtic,29,Atalanta,Serie A,SPAL,Serie A,2018-2019,5000000,4800000
